@@ -1,7 +1,7 @@
 /*
   @author: Narasimha Murthy 
   This is an illustration of CASE statements in SQL.
-  This set of statements output the count of number of students within grades A, B, C or F 
+  These set of statements output the count of number of students within grades A, B, C or F 
 */
 
 CREATE TABLE student_grades (
